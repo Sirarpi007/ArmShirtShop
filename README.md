@@ -1,6 +1,6 @@
-# ⚽ FootballShirts Armenia
+# ⚽ ArmShirtShop
 
-**FootballShirts Armenia** is a localized e-commerce website for selling football jerseys online. Built with PHP, HTML, and CSS, this project includes user authentication, order forms, and a responsive product display. Ideal for small businesses, student portfolios, or learning basic web development.
+**ArmShirtShop Armenia** is a localized e-commerce website for selling football jerseys online. Built with PHP, HTML, and CSS, this project includes user authentication, order forms, and a responsive product display. Ideal for small businesses, student portfolios, or learning basic web development.
 
 ---
 
